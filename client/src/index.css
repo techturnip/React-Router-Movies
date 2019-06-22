@@ -17,7 +17,8 @@ body {
   margin: 1rem auto;
 }
 
-.movie-card {
+.movie-card,
+.movie-link {
   text-decoration: none;
   color: inherit;
 }
@@ -56,7 +57,7 @@ body {
   padding: 5px;
 }
 
-.save-wrapper {
+.wrapper {
   position: relative;
   width: 75%;
   margin: 1rem auto;
